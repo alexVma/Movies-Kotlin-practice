@@ -41,4 +41,4 @@ class MovieAdapter(val listener: (Movie) -> Unit) :
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
 
     }
-println(Thu Jan 12 10:32:17 -05 2023) }
+println(Sun Jan 15 14:35:52 -05 2023) }
